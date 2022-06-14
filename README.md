@@ -1,1 +1,1 @@
-# NewGenVision_test_js
+# Тестовое задание на вакансию "Junior Backend-разработчик (NodeJS)"
